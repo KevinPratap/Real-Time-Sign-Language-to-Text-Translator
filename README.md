@@ -72,7 +72,9 @@ python sign_language_translator.py
 ## 📸 Screenshots
 
 <img width="901" height="960" alt="image" src="https://github.com/user-attachments/assets/9575c90c-f25a-4260-9be7-0e6d3081d766" />
-![Uploading image.png…]()
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/e4fc2260-961d-40e5-9aa0-fdc052c8b23b" />
+
 
 ---
 
