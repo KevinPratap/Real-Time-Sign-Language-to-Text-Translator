@@ -71,10 +71,8 @@ python sign_language_translator.py
 
 ## 📸 Screenshots
 
-Add screenshots of:
-- The main UI
-- Hand landmark detection
-- Recognized sign overlay
+<img width="901" height="960" alt="image" src="https://github.com/user-attachments/assets/9575c90c-f25a-4260-9be7-0e6d3081d766" />
+![Uploading image.png…]()
 
 ---
 
